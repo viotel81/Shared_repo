@@ -10,3 +10,9 @@ Changed by Simona
 Changed by Deimante
 ========
 Changed by Jurgita
+========
+<<<<<<< HEAD
+Changed by Aiste
+=======
+Changed by Ieva A.
+>>>>>>> 1770415cc57bd6475d96d39b1bfd7f176594e257
