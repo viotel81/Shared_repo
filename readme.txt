@@ -16,3 +16,6 @@ Changed by Aiste
 =======
 Changed by Ieva A.
 >>>>>>> 1770415cc57bd6475d96d39b1bfd7f176594e257
+=======
+Changed by Daina
+=======
