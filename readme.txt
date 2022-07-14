@@ -8,3 +8,5 @@ Changed by Arturs.
 Changed by Simona
 ========
 Changed by Deimante
+========
+Changed by Jurgita
