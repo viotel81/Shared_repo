@@ -1,4 +1,4 @@
-read me before proceeding:)
+read me before proceeding:) :)
 <<<<<<< HEAD
 Changed by Kristina
 =======
